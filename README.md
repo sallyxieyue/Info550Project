@@ -23,4 +23,4 @@ To execute the code you can run the following code from the command line while i
 Rscript -e "rmarkdown::render('Code.Rmd')"
 ```
 
-This will create a file called `Yoga_and_TNFalpha' containing the results.
+This will create a file in the folder with the code called `Code.html' containing the results.
