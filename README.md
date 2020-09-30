@@ -20,7 +20,7 @@ for(p in pkgs){
 To execute the code you can run the following code from the command line while in the working directory with the datasets and the code.  
 
 ```{r}
-Rscript -e "rmarkdown::render('report.Rmd')"
+Rscript -e "rmarkdown::render('Code.Rmd')"
 ```
 
 This will create a file called `Yoga_and_TNFalpha' containing the results.
